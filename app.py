@@ -18,3 +18,4 @@ app.add_app("Model", model.app)
 app.add_app("Elnur", eln.app)
 # The main app
 app.run()
+
